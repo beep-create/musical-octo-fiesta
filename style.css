@@ -1,0 +1,33 @@
+#forest , #mountain {
+height: 300px;
+width: 450px;
+border: 3px solid lightblue;
+
+}
+
+#sea {
+    height: 300px;
+    width: 550px;
+   border: 3px solid lightblue;
+}
+
+
+body {
+    background-color: cadetblue;
+    font-family: Luminari;
+    border-style:groove;
+    border-color:lightseagreen;
+}
+
+
+.section-style {
+    margin-right: 25px;
+ margin-left: 25px;
+ color:white;
+    
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
